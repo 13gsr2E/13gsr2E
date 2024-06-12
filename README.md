@@ -1,14 +1,12 @@
-- 👋 Hi, I’m @13gsr2E 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+### Bem vindos(as) ao meu perfil!
 
-Apenas para deixar salvo
+ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ
 
-<!---
-13gsr2E/13gsr2E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Estou estudando na Alura 
+
+Estou me desenvolvendo na línguagem JavaScript
+
+₊˚ ︵‿︵‿︵‿︵୨୧ · · ●⁠ · · ୨୧‿︵‿︵‿︵‿ ˚₊
+
+![](https://media1.tenor.com/m/LYqvrETBiaAAAAAC/spiderverse-across-the-spiderverse.gif)
